@@ -8,11 +8,13 @@
             "server": "https://businesscentral.dynamics.com/",
             "sandboxName": "Sandbox",
             "tenant": "b99258cb-8dce-4124-9bb2-3184afb1e254",
+            "startupObjectType": "Page",
+            "startupObjectId": 90796,
             "breakOnError": true,
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "schemaUpdateMode": "Recreate"
+            "schemaUpdateMode": "Synchronize"
         }
     ]
 }
